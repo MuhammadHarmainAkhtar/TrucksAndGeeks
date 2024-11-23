@@ -1,0 +1,3 @@
+.parallax {
+    background-attachment: fixed; /* Ensures the background stays fixed during scroll */
+}

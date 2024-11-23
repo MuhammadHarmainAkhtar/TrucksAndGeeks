@@ -1,0 +1,4 @@
+.glow-border {
+    border-bottom-color: red; /* Change this color as needed */
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.8), 0 0 20px rgba(255, 0, 0, 0.5); /* Permanent shadow */
+}
